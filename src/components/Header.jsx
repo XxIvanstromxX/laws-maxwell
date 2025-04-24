@@ -20,18 +20,18 @@ function Header() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
     >
-      <div className="container mx-auto px-6 flex justify-between items-center">
+      <div className="container mx-auto px-6 md:flex justify-between items-center">
         <motion.div
-          className="flex items-center gap-2"
+          className="flex md:items-center md:gap-2 justify-center"
           whileHover={{ scale: 1.05 }}
         >
           
           <h1 className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
-              Ecuaciones de Maxwell
+              Leyes de Maxwell
           </h1>
         </motion.div>
 
-        <nav>
+        <nav className="hidden md:flex">
           <ul className="flex gap-6 items-center">
             {[
               <>Gauss ( <span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[10px]">→</span></span> )</>,

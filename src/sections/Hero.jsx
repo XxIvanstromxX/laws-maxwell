@@ -59,7 +59,7 @@ function Hero() {
           animate={{ y: [0, -20, 0], rotate: [0, -2, 0] }}
           transition={{ duration: 4, repeat: Infinity }}
         >
-          ∇×<span className="relative">B<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[22px]">→</span></span> = μ₀J + μ₀ε₀∂<span className="relative">E<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[22px]">→</span></span>/∂t
+          ∇×<span className="relative">B<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[0.85em]">→</span></span> = μ₀J + μ₀ε₀∂<span className="relative">E<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[0.85em]">→</span></span>/∂t
         </motion.div>
 
         <motion.div
@@ -67,7 +67,7 @@ function Hero() {
           animate={{ y: [0, -15, 0], rotate: [0, 2, 0] }}
           transition={{ duration: 5, repeat: Infinity }}
         >
-          ∇⋅<span className="relative">E<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[22px]">→</span></span> = ρ/ε₀
+          ∇⋅<span className="relative">E<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[0.85em]">→</span></span> = ρ/ε₀
         </motion.div>
         
         <motion.div
@@ -75,7 +75,7 @@ function Hero() {
           animate={{ y: [0, -10, 0], rotate: [0, -1, 0] }}
           transition={{ duration: 4.5, repeat: Infinity }}
         >
-          ∇×<span className="relative">E<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[22px]">→</span></span> = -∂<span className="relative">B<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[22px]">→</span></span>/∂t
+          ∇×<span className="relative">E<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[0.85em]">→</span></span> = -∂<span className="relative">B<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[0.85em]">→</span></span>/∂t
         </motion.div>
 
         <motion.div 
@@ -84,7 +84,7 @@ function Hero() {
           animate={{ y: [0, -5, 0], rotate: [0, 1, 0] }}
           transition={{ duration: 4, repeat: Infinity }}
         >
-          ∇⋅<span className="relative">B<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[22px]">→</span></span> = 0
+          ∇⋅<span className="relative">B<span className="absolute top-[-0.5em] left-0 right-0 text-center text-[0.85em]">→</span></span> = 0
         </motion.div>
       </div>
 

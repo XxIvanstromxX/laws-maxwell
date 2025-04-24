@@ -103,10 +103,10 @@ function GaussMagneticLaw() {
             </p>
             
             <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl mb-6 overflow-x-auto">
-              <code className="text-2xl text-purple-400 font-bold">∮<sub>S</sub> <span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span>·dA = 0</code>
+              <code className="text-2xl text-purple-400 font-bold">∮<sub>S</sub> <span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span>·dA = 0</code>
               <br />
               <br />
-              <code className="text-2xl text-purple-400 font-bold">∇·<span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span> = 0</code>
+              <code className="text-2xl text-purple-400 font-bold">∇·<span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span> = 0</code>
             </div>
             
             <p className="mb-4">

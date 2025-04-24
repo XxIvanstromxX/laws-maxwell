@@ -17,10 +17,10 @@ function FaradayLaw() {
             </p>
             
             <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl mb-6 overflow-x-auto">
-              <code className="text-2xl text-green-400 font-bold">∮<sub>C</sub> <span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span>·dl = -d/dt(∮<sub>S</sub><span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span>·dA)</code>
+              <code className="text-2xl text-green-400 font-bold">∮<sub>C</sub> <span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span>·dl = -d/dt(∮<sub>S</sub><span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span>·dA)</code>
               <br />
               <br />
-              <code className="text-2xl text-green-400 font-bold">∇×<span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span> = -d<span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span>/dt</code>
+              <code className="text-2xl text-green-400 font-bold">∇×<span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span> = -d<span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span>/dt</code>
             </div>
             
             <p className="mb-4">

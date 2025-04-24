@@ -99,10 +99,10 @@ function AmpereMaxwellLaw() {
             </p>
             
             <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl mb-6 overflow-x-auto">
-              <code className="text-2xl text-amber-400 font-bold">∮<sub>C</sub> B·dl = μ₀I + μ₀ε₀d/dt(∮<sub>S</sub><span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span>·dA)</code>
+              <code className="text-2xl text-amber-400 font-bold">∮<sub>C</sub> B·dl = μ<sub>0</sub>I + μ<sub>0</sub>ε<sub>0</sub>d/dt(∮<sub>S</sub><span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span>·dA)</code>
               <br />
               <br />
-              <code className="text-2xl text-amber-400 font-bold">∇×<span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span> = μ₀<span className="relative">J<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span> + μ₀ε₀d<span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[22px]">→</span></span>/dt</code>
+              <code className="text-2xl text-amber-400 font-bold">∇×<span className="relative">B<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span> = μ<sub>0</sub><span className="relative">J<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span> + μ<sub>0</sub>ε<sub>0</sub>d<span className="relative">E<span className="absolute top-[-0.7em] left-0 right-0 text-center text-[0.85em]">→</span></span>/dt</code>
             </div>
             
             <p className="mb-4">
