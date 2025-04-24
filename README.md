@@ -1,6 +1,5 @@
 # 🧲⚡ Ecuaciones de Maxwell - Visualización Interactiva
 
-![Maxwell's Equations](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maxwell%27s_equations.svg)
 
 ## 📖 Descripción
 
@@ -49,7 +48,7 @@ Este proyecto es una aplicación web interactiva desarrollada con React y Vite q
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/laws-maxwell.git
+   git clone https://github.com/XxIvanstromxX/laws-maxwell.git
    cd laws-maxwell
    ```
 
@@ -99,7 +98,7 @@ Distribuido bajo la Licencia MIT. Consulta `LICENSE` para más información.
 
 ## 📬 Contacto
 
-Iván Martínez - [@xVan24x](https://twitter.com/xVan24x) - tu-email@ejemplo.com
+Iván Martínez - [@xVan24x](https://twitter.com/xVan24x) - axel-ivan24@hotmail.com
 
 Link del proyecto: [https://github.com/XxIvanstromxX/laws-maxwell](https://github.com/XxIvanstromxX/laws-maxwell)
 
